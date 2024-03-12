@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#box{
+    background-color: green;
+    width: 20rem;
+    color: white;
+    /* height: 12vh; */
+    border-radius: 5px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+}
